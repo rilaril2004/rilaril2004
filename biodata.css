@@ -1,0 +1,72 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    width: 150%;
+    justify-content: center;
+    display: flex;
+}
+
+.con-judul {
+    width: 50%;
+    justify-content: center;
+    background-color: aqua;
+    border: 3px solid black;
+
+}
+
+.judul {
+    background-color: bisque;
+    text-align: center;
+}
+
+.informasi {
+    padding-left: 50px;
+    font-size: 25px;
+    color: rgb(19, 19, 112);
+}
+
+.pengalaman {
+    padding-top: 25px;
+}
+
+.keahlian {
+    padding-top: 25px;
+}
+
+.foto {
+    padding-left: 50px;
+    padding-top: 14px;
+}
+
+.con-table {
+
+    padding-right: 105px;
+
+}
+
+.con-isi {
+    width: 100%;
+    display: flex;
+    gap: 5rem;
+}
+
+.con-table table tr {
+    font-size: 18px;
+}
+
+.con-bawah {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.con-table table {
+    gap: 1rem;
+    display: flex;
+}
+
+table tr {
+    padding: 8px;
+    display: flex;
+}
